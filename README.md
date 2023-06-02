@@ -35,4 +35,7 @@ set "commandScript=D:\Tools\New\change_folder_icon.bat"
 if it did not work make sure commandScript path use (copy as path).
 
 ## change_folder_icon.bat:-
-if you want to change a single folde just copy this file there and run it
+if you want to change a single folde just copy this file there and run it.
+
+
+Thanks to demberto for proving us the (FolderIkon).
