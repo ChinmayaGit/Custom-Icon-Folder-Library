@@ -2,10 +2,11 @@ import os
 from googlesearch import search
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
 import imghdr
 
-root_directory = r"C:\Users\chinu\OneDrive\Desktop\New"
+# Ask for the root directory path
+root_directory = input("Enter the root directory path: ")
+
 max_attempts = 5
 
 # Iterate over folders in the root directory
