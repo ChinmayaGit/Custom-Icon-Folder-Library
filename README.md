@@ -1,5 +1,5 @@
 # Folder-Library
-Download Icon for for folder and change the folder icon.
+Download Icon for folder and change the folder icon.
 requrement:-
 install
 ```
